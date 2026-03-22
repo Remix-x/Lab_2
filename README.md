@@ -163,7 +163,7 @@ function reduce(array, callback, initialValue) {
 const sum = reduce(num, (accumulator, current) => {
     return accumulator + current;
 }, 0);
-console.log('Сумма элементов массива:', sum);
+console.log('Сумма элементов массива:', sum);git commit -m "update lab2"
 ```
 ![alt text](/images/image-7.png)
 
